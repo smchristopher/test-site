@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Sean Michael Christopher
 description: Geospatial Tech Enthusiast
+permalink: /blog/:year/:month/:day/:title
